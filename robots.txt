@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://bobs-barber-shop-streator.vercel.app/sitemap.xml
